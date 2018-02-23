@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="AllMargin">60dp</dimen>
+    <dimen name="sizeofTextButton">15sp</dimen>
+    <dimen name="sizeofText">25sp</dimen>
+    <dimen name="PageSongDetails">10dp</dimen>
+</resources>

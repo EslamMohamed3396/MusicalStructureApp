@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Musical Structure App</string>
+    <string name="Allsong">All Song</string>
+    <string name="SongName">Name Of Song</string>
+    <string name="SongDuration">Duration Of Song</string>
+    <string name="SongArtist">Artist Of Song</string>
+    <string name="CategoryNowPlaying">Now Playing</string>
+    <string name="CategoryAllSong">All Song</string>
+    <string name="backButton">Back</string>
+</resources>
