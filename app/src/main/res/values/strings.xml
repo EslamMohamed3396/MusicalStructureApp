@@ -7,4 +7,10 @@
     <string name="CategoryNowPlaying">Now Playing</string>
     <string name="CategoryAllSong">All Song</string>
     <string name="backButton">Back</string>
+    <string name="TheGreatest">The Greatest</string>
+    <string name="Sia">Sia</string>
+    <string name="AlanWalker">Alan Walker</string>
+    <string name="Faded">Faded</string>
+    <string name="Alive">Alive</string>
+    <string name="Bird">Bird Set Free</string>
 </resources>
