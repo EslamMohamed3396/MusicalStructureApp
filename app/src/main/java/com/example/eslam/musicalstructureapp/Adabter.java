@@ -16,11 +16,8 @@ import java.util.ArrayList;
  */
 
 public class Adabter extends ArrayAdapter<SongDetails> {
-
-
     public Adabter(Activity context, ArrayList<SongDetails> song) {
         super(context, 0, song);
-
     }
 
     @NonNull
